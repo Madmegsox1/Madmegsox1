@@ -1,4 +1,4 @@
-# Madmegsox1
+## Hi
 ### Stats:
 ![](https://komarev.com/ghpvc/?username=Madmegsox1&label=Views)
 <a href="https://github.com/Madmegsox1/github-readme-stats">
@@ -9,7 +9,7 @@
 
 <details>
 <summary>
-  More Shit
+  More Stuff:
 </summary>
   
   ### What languages do i know :
@@ -24,5 +24,14 @@
 | Assembly       | Used for the boot strap                                                       |
 | HTML       | Not really a language                                                      |
 | CSS      |   Not really a language                                                    |
+
+**I know most of this from self learning and other stuff** 
+
+
+### Active Projects:
+| Name      |
+| ------------- |
+| Infinity + | 
+| Minecraft Name Sniper Bot|
  
 </details>
