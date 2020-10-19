@@ -1,6 +1,6 @@
 ## Hi.....Im Madmeg! 🤖🙇 
 ### Stats:
-![](https://komarev.com/ghpvc/?username=Madmegsox1&label=Views&color=ff5050)
+![](https://komarev.com/ghpvc/?username=Madmegsox1&label=Views&color=ff5050&style=flat-square)
 [![GitHub Madmegsox1](https://img.shields.io/github/followers/Madmegsox1?label=follow&style=social)](https://github.com/Madmegsox1)
 [![Youtube Channel](https://img.shields.io/badge/-Madmeg-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCq-zp_4MFBEl8YHDCR2A--g?view_as=subscriber)](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
 
