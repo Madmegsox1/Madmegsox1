@@ -1,4 +1,4 @@
-## Hi.....
+## Hi.....🤖🙇
 ### Stats:
 ![](https://komarev.com/ghpvc/?username=Madmegsox1&label=Views)
 [![GitHub Madmegsox1](https://img.shields.io/github/followers/Madmegsox1?label=follow&style=social)](https://github.com/Madmegsox1)
@@ -6,7 +6,7 @@
 
 
 
-**As you can see i am Clouted**
+**As you can see i am Clouted😎**
 <a href="https://github.com/Madmegsox1/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Madmegsox1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
