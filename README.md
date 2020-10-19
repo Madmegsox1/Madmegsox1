@@ -1,10 +1,11 @@
 ## Hi
 ### Stats:
 ![](https://komarev.com/ghpvc/?username=Madmegsox1&label=Views)
+[![GitHub Madmegsox1](https://img.shields.io/github/followers/Madmegsox1?label=follow&style=social)](https://github.com/Madmegsox1)
 <a href="https://github.com/Madmegsox1/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madmegsox1&langs_count=8&theme=radical" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Madmegsox1&show_icons=true&theme=radical" />
+  <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Madmegsox1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
+   <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madmegsox1&langs_count=8&&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 </a>
 
 <details>
@@ -25,7 +26,7 @@
 | HTML       | Not really a language                                                      |
 | CSS      |   Not really a language                                                    |
 
-**I know most of this from self learning and other stuff** 
+***I know most of this from self learning and other stuff*** 
 
 
 ### Active Projects:
