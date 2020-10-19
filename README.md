@@ -1,5 +1,5 @@
 # Madmegsox1
-
+### Stats:
 ![](https://komarev.com/ghpvc/?username=Madmegsox1&label=Views)
 <a href="https://github.com/Madmegsox1/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -12,6 +12,6 @@
   More Shit
 </summary>
   
-  ## hi
+  ### What languges do i know :
  
 </details>
