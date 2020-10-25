@@ -39,5 +39,6 @@
 | ------------- |
 | Infinity + | 
 | Minecraft Name Sniper Bot|
+| VF-Hack |
  
 </details>
