@@ -38,7 +38,6 @@
 | Name      |
 | ------------- |
 | Infinity + | 
-| Minecraft Name Sniper Bot|
 | Infinity Ware |
  
 </details>
