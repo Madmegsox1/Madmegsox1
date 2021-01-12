@@ -14,7 +14,7 @@
 </a>
 
 
-why does it say js as my main language :angry:
+
 
 ***If you want to work with me on something dm on discord: Madmegsox#0001***
 
