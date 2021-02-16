@@ -42,7 +42,9 @@
 ### Active Projects:
 | Name      |
 | ------------- |
-| Infinity + | 
-| Infinity Ware |
+| Prism | 
+| Prims injector |
+| Prism Installer | 
+| Prism Website | 
  
 </details>
