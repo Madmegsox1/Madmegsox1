@@ -46,6 +46,6 @@
 | Prims injector |
 | Prism Installer | 
 | Prism Website | 
-| Infinity Incursion | 
+| Infinity Incursion Bot | 
  
 </details>
