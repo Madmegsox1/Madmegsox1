@@ -35,6 +35,7 @@
 | Assembly       | Used for the boot strap                                                       |
 | HTML       | Not really a language                                                      |
 | CSS      |   Not really a language                                                    |
+| Kotlin   | Very good language can be used in a lot of situations  |
 
 ***I know most of this from self learning and other stuff*** 
 
@@ -47,5 +48,6 @@
 | Prism Installer | 
 | Prism Website | 
 | Infinity Incursion Bot | 
+| Kotlin machine learning rat detector |
  
 </details>
