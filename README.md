@@ -27,8 +27,8 @@
   ### What languages do i know :
 | Language      | Details                                                                   |
 | ------------- | ------------------------------------------------------------------------- |
-| Python | Really good language to start out but can get really advanced as well this is my fav language               |
-| Java        | Good languge as its organised and other shit only learnt it coz of mc and Infinity+ |
+| Python | Really good language to start out but can get really advanced            |
+| Java        | Good languge as its organised and other shit only learnt |
 | NodeJs         | Just used for Java Scrypt command line                                                           |
 | Java scrypt         | Epic web language and i used it for a discord bot                                                          |
 | C#         | I used this in Unity a lot and to make a custom boot strap                                                        |
@@ -36,7 +36,7 @@
 | Assembly       | Used for the boot strap                                                       |
 | HTML       | Not really a language                                                      |
 | CSS      |   Not really a language                                                    |
-| Kotlin   | Very good language can be used in a lot of situations  |
+| Kotlin   | Very good language can be used in a lot of situations my fav language  |
 
 ***I know most of this from self learning and other stuff*** 
 
