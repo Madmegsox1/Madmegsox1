@@ -44,11 +44,10 @@
 ### Active Projects:
 | Name      |
 | ------------- |
-| Prism | 
-| Prims injector |
-| Prism Installer | 
-| Prism Website | 
-| Infinity Incursion Bot | 
+| Glacier | 
+| Glacier injector |
+| Glacier Installer | 
+| Glacier Website | 
 | Kotlin machine learning rat detector |
  
 </details>
