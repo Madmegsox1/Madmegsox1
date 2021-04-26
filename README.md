@@ -45,9 +45,6 @@
 | Name      |
 | ------------- |
 | Glacier | 
-| Glacier injector |
-| Glacier Installer | 
-| Glacier Website | 
-| Kotlin machine learning rat detector |
+| Wurst + 3 | 
  
 </details>
