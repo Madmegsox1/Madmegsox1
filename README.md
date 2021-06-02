@@ -32,7 +32,7 @@
 | NodeJs         | Just used for Java Scrypt command line                                                           |
 | Java scrypt         | Epic web language and i used it for a discord bot                                                          |
 | C#         | I used this in Unity a lot and to make a custom boot strap                                                        |
-| C         | Idk why i know this but its a good advanced language as you can directly r+w to ram                                                         |
+| C++         | Idk why i know this but its a good advanced language as you can directly r+w to ram                                                         |
 | Assembly       | Used for the boot strap                                                       |
 | HTML       | Not really a language                                                      |
 | CSS      |   Not really a language                                                    |
