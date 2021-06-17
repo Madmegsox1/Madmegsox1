@@ -28,7 +28,7 @@
 | Language      | Details                                                                   |
 | ------------- | ------------------------------------------------------------------------- |
 | Python | Really good language to start out but can get really advanced            |
-| Java        | Good languge as its organised and other shit only learnt |
+| Java        | God languge <3 |
 | NodeJs         | Just used for Java Scrypt command line                                                           |
 | Java scrypt         | Epic web language and i used it for a discord bot                                                          |
 | C#         | I used this in Unity a lot and to make a custom boot strap                                                        |
