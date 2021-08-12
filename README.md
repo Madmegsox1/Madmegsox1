@@ -4,17 +4,15 @@
   <h1>
     𝗵𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲, 𝗳𝗲𝗹𝗹𝗼𝘄 <𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧𝙨/>! 𝗜𝗺 𝘀𝘁𝘂𝗱𝗱𝘆𝗶𝗻𝗴 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗱𝗲𝘃
   </h1>
-  <img src="https://komarev.com/ghpvc/?username=Madmegsox1&label=Views&color=582673&style=flat-square">
-  <a href = "https://github.com/Madmegsox1">
-    <img src="https://img.shields.io/github/followers/Madmegsox1?label=follow&style=social">
-  </a>
-    <a href = "https://www.youtube.com/channel/UCq-zp_4MFBEl8YHDCR2A--g?view_as=subscriber">
-    <img src="https://img.shields.io/badge/-Madmeg-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCq-zp_4MFBEl8YHDCR2A--g?view_as=subscriber">
-  </a>
-    </a>
-    <a href = "https://github.com/WurstPlus">
-    <img src="https://img.shields.io/badge/WurstPlus-3-eb801c?style=flat&logo=AddThis">
-  </a>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Madmegsox1&label=Views&color=582673&style=flat-square" alt="stats" />
+    <a href = "https://github.com/Madmegsox1" taget="_blank">
+      <img src="https://img.shields.io/github/followers/Madmegsox1?label=follow&style=social" alt="stats" /></a>
+    <a href = "https://www.youtube.com/channel/UCq-zp_4MFBEl8YHDCR2A--g?view_as=subscriber" taget="_blank">
+      <img src="https://img.shields.io/badge/-Madmeg-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCq-zp_4MFBEl8YHDCR2A--g?view_as=subscriber" alt="stats" /></a>
+    <a href = "https://github.com/WurstPlus" taget="_blank">
+      <img src="https://img.shields.io/badge/WurstPlus-3-eb801c?style=flat-square&logo=AddThis" alt="stats" /></a>
+  </p>  
   
   
   <h3>
