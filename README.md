@@ -26,6 +26,7 @@
     > Java Light Event Bus
     > Kotlin/Java chat server
     > DeepQ (Python Reinforcement Learning Lib)
+    > Sqlite Utils (A .NET binary library)
     
   </p>
   
