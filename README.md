@@ -23,6 +23,7 @@
   <p>
     
     > Wurst plus 3 (Minecraft Mod made in java, with @TrvsF)
+    > Python Obfuscator
     > Java Light Event Bus
     > Kotlin/Java chat server
     > DeepQ (Python Reinforcement Learning Lib)
