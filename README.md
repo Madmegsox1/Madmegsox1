@@ -53,6 +53,7 @@
   <h4>
     If you would like to contact me, message me on:<br/>
     Discord: <i>Madmeg#4882</i><br/>
+  Twitter: <i>@0x158</i>
     Email: <i>madmegsox2@gmail.com</i><br/><br/>
     Join the Wurst+3 Discord: <a href="https://discord.gg/G64ur5G3T2"><i> here</i></a><br/>
     Feel Free to make a PR or Issue's!<br/><br/>
