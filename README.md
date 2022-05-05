@@ -22,6 +22,7 @@
   </h3>
   <p>
     
+    > Psilocybin Client 
     > Wurst plus 3 (Minecraft Mod made in java, with @TrvsF)
     > Python Obfuscator
     > Java Light Event Bus
