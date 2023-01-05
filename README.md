@@ -20,18 +20,20 @@
   <h3>
     Projects i have worked on:
   </h3>
-  <p>
-  
-    > IRIS (c#)
-    > DeepQ (Py)
-    > Slate (Ts/Js)
-    > Python Obfuscator (Py)
-    > Graphics Engine (Java)
-    > Light Event Bus (Java)
-    > Psilocybin Client (Java) 
-    > Wurst plus 3 (Minecraft Mod made in java, with @TrvsF)
-  
-  </p>
+  <div align="left">
+    
+
+      > IRIS (c#)
+      > DeepQ (Py)
+      > Slate (Ts/Js)
+      > Python Obfuscator (Py)
+      > Graphics Engine (Java)
+      > Light Event Bus (Java)
+      > Psilocybin Client (Java) 
+      > Wurst plus 3 (Minecraft Mod made in java, with @TrvsF)
+
+    
+  </div>
   
   
   <h3>
