@@ -21,6 +21,7 @@
     Projects i have worked on:
   </h3>
   <p>
+  
     > IRIS (c#)
     > DeepQ (Py)
     > Slate (Ts/Js)
@@ -29,6 +30,7 @@
     > Light Event Bus (Java)
     > Psilocybin Client (Java) 
     > Wurst plus 3 (Minecraft Mod made in java, with @TrvsF)
+  
   </p>
   
   
