@@ -21,15 +21,14 @@
     Projects i have worked on:
   </h3>
   <p>
-    
-    > Psilocybin Client 
+    > IRIS (c#)
+    > DeepQ (Py)
+    > Slate (Ts/Js)
+    > Python Obfuscator (Py)
+    > Graphics Engine (Java)
+    > Light Event Bus (Java)
+    > Psilocybin Client (Java) 
     > Wurst plus 3 (Minecraft Mod made in java, with @TrvsF)
-    > Python Obfuscator
-    > Java Light Event Bus
-    > Kotlin/Java chat server
-    > DeepQ (Python Reinforcement Learning Lib)
-    > Sqlite Utils (A .NET binary library)
-    
   </p>
   
   
