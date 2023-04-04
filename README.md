@@ -14,23 +14,25 @@
       <img src="https://img.shields.io/badge/-Madmeg-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCq-zp_4MFBEl8YHDCR2A--g?view_as=subscriber" alt="stats" /></a>
   </p>  
  
- 
+  <h5>
+  Second Account: <i>@Teign-Pr</i><br/>
+  </h5>
   <h3>
     Projects i have worked on:
   </h3>
   <div align="left">
     
-
-      > IRIS (c#)
       > DeepQ (Py)
       > Slate (Ts/Js)
       > Python Obfuscator (Py)
       > Graphics Engine (Java)
       > Light Event Bus (Java)
       > Psilocybin Client (Java) 
+      > Industriele Schedule (Java/Kotlin)
+      > Industriele CRM/ERP IRIS (ASP.NET MVC/C#)
       > Wurst plus 3 (Minecraft Mod made in java, with @TrvsF)
+      > Industriele Commons Libary For Rendering and Moduler SQL Interfacing (Java/OpenGL/SQL Server)
 
-    
   </div>
   
   
@@ -54,7 +56,7 @@
   <h4>
     If you would like to contact me, message me on:<br/>
     Discord: <i>Madmeg#4882</i><br/>
-  Twitter: <i>@0x158</i><br/>
+    Twitter: <i>@0x158</i><br/>
     Email: <i>madmegsox2@gmail.com</i><br/><br/>
     Feel Free to make a PR or Issue's!<br/><br/>
   </h4>
