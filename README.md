@@ -15,7 +15,7 @@
   </p>  
  
   <h5>
-  Second Account: <i>@Teign-Pr</i><br/>
+  Second Account: <a href = "https://github.com/Teign-Pr" taget="_blank"><i>@Teign-Pr</i></a><br/>
   </h5>
   <h3>
     Projects i have worked on:
