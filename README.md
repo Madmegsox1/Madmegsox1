@@ -2,16 +2,6 @@
   <img src="https://raw.githubusercontent.com/Madmegsox1/Madmegsox1/master/text.gif" alt="Hello!!!">
   </br> </br>
 
-  
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Madmegsox1&label=Views&color=582673&style=flat-square" alt="stats" />
-    <a href = "https://github.com/Madmegsox1" taget="_blank">
-      <img src="https://img.shields.io/github/followers/Madmegsox1?label=follow&style=social" alt="stats" /></a>
-    <a href = "https://www.youtube.com/channel/UCq-zp_4MFBEl8YHDCR2A--g?view_as=subscriber" taget="_blank">
-      <img src="https://img.shields.io/badge/-Madmeg-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UCq-zp_4MFBEl8YHDCR2A--g?view_as=subscriber" alt="stats" /></a>
-  </p>  
- 
   <h5>
   Second Account: <a href = "https://github.com/Teign-Pr" taget="_blank"><i>@Teign-Pr</i></a><br/>
   </h5>
@@ -51,19 +41,8 @@
     <img src="https://img.shields.io/badge/Pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=582673&labelColor=black">
     <img src="https://img.shields.io/badge/Rider-143?style=for-the-badge&logo=Rider&logoColor=white&color=582673&labelColor=black">
   </p>
-  
-  <h4>
-    If you would like to contact me, message me on:<br/>
-    Discord: <i>Madmeg#4882</i><br/>
-    Twitter: <i>@0x158</i><br/>
-    Email: <i>madmegsox2@gmail.com</i><br/><br/>
-    Feel Free to make a PR or Issue's!<br/><br/>
-  </h4>
-  
-  
-
-  
- 
-
+   <p>
+    <img src="https://komarev.com/ghpvc/?username=Madmegsox1&label=Views&color=582673&style=flat-square" alt="stats" />
+     </p>  
     
 </div>
