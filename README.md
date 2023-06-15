@@ -24,13 +24,14 @@
     
       > DeepQ (Py)
       > Slate (Ts/Js)
-      > Python Obfuscator (Py)
       > Graphics Engine (Java)
       > Light Event Bus (Java)
       > Psilocybin Client (Java) 
+      > Python Obfuscator (Py/Java)
       > Industriele Schedule (Java/Kotlin)
       > Industriele CRM/ERP IRIS (ASP.NET MVC/C#)
-      > Wurst plus 3 (Minecraft Mod made in java, with @TrvsF)
+      > Commercial Monitoring and Auditing Softwear (C#)
+      > WurstPlus 3 (Java made in Collaboration with @TrvsF)
       > Industriele Commons Libary For Rendering and Moduler SQL Interfacing (Java/OpenGL/SQL Server)
 
   </div>
