@@ -20,7 +20,7 @@
       > Industriele CRM/ERP IRIS (ASP.NET MVC/C#)
       > Commercial Monitoring and Auditing Softwear (C#)
       > WurstPlus 3 (Java made in Collaboration with @TrvsF)
-      > Industriele Commons Libary For Rendering and Moduler SQL Interfacing (Java/OpenGL/SQL Server)
+      > Industriele Commons Libary For Rendering and Moduler SQL Interfacing (Java/OpenGL/SQL Server/CUDA)
 
   </div>
   
