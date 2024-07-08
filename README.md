@@ -12,15 +12,15 @@
     
       > DeepQ (Py)
       > Slate (Ts/Js)
-      > Graphics Engine (Java)
       > Light Event Bus (Java)
+      > Polyscape Engine (Java)
       > Psilocybin Client (Java) 
       > Python Obfuscator (Py/Java)
-      > Industriele Schedule (Java/Kotlin)
-      > Industriele CRM/ERP IRIS (ASP.NET MVC/C#)
+      > Industrial Schedule (Java/Kotlin)
+      > Industrial CRM/ERP IRIS (ASP.NET MVC/C#)
       > Commercial Monitoring and Auditing Softwear (C#)
       > WurstPlus 3 (Java made in Collaboration with @TrvsF)
-      > Industriele Commons Libary For Rendering and Moduler SQL Interfacing (Java/OpenGL/SQL Server/CUDA)
+      > Industrial Commons Libary For Rendering and Moduler SQL Interfacing (Java/OpenGL/SQL Server/CUDA)
 
   </div>
   
