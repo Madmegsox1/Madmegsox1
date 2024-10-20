@@ -12,8 +12,8 @@
     
       > DeepQ (Py)
       > Netnoot (Rust/Zig)
-      > Live Circle Tool (Kotlin)
       > Python Obfuscator (Py/Java)
+      > Live Circle Artboard (Kotlin)
       > Polyscape Render Engine (Java)
       > Industrial Schedule (Java/Kotlin)
       > Industrial CRM/ERP IRIS (ASP.NET MVC/C#)
