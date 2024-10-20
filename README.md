@@ -11,6 +11,8 @@
   <div align="left">
     
       > DeepQ (Py)
+      > Netnoot (Rust/Zig)
+      > Live Circle Tool (Kotlin)
       > Python Obfuscator (Py/Java)
       > Polyscape Render Engine (Java)
       > Industrial Schedule (Java/Kotlin)
