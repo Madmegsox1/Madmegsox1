@@ -10,7 +10,6 @@
   </h3>
   <div align="left">
     
-      > DeepQ (Py)
       > Netnoot (Rust/Zig)
       > Python Obfuscator (Py/Java)
       > Live Circle Artboard (Kotlin)
