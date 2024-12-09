@@ -10,7 +10,7 @@
   </h3>
   <div align="left">
     
-      > Netnoot (Rust/Zig)
+      > Netnoot (Rust&Zig)
       > Python Obfuscator (Py/Java)
       > Live Circle Artboard (Kotlin)
       > Industrial Schedule (Java/Kotlin)
