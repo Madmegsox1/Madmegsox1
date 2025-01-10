@@ -2,9 +2,6 @@
   <img src="https://raw.githubusercontent.com/Madmegsox1/Madmegsox1/master/text.gif" alt="Hello!!!">
   </br> </br>
 
-  <h5>
-  Second Account: <a href = "https://github.com/Teign-Pr" taget="_blank"><i>@Teign-Pr</i></a><br/>
-  </h5>
   <h3>
     Projects i have worked on:
   </h3>
