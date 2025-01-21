@@ -19,9 +19,9 @@
 
   </div>
   </br> </br>
-  <h3 align="left">
+  <h3 align="center">
     Currently Listening to 
   </h3>
-<img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=madmeg04&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" />
+<img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=madmeg04&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true" />
     
 </div>
