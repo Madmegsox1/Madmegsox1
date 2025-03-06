@@ -14,10 +14,13 @@
       > Polyscape Render Engine (Java/OpenGl)
       > WurstPlus 3 (Java made in Collaboration with @TrvsF)
     -------------Professional--------------
+      > Hex-Editor Tooling (Zig)
+      > Memory Editor/Viewer (C++)
+      > Research Project(Zig + Web) (ONGOING)
       > Industrial CRM/ERP System (ASP.NET MVC/C#)
       > Commercial Monitoring and Auditing Softwear (C#)
-      > Commercial Aggregate Timeseries ML Algorithm (CUDA/C++)
       > Autonomus Predictive Industrial Schedule (Java/Kotlin)
+      > Commercial Aggregate Timeseries ML Algorithm (CUDA/C++)
       > Standard Libary For Rendering and Sql ORM (Java/OpenGL/SQL Server/CUDA)
 
   </div>
