@@ -6,16 +6,19 @@
     Projects i have worked on:
   </h3>
   <div align="left">
-    
+
+    -------------Personal--------------
       > Netnoot (Rust&Zig)
       > Python Obfuscator (Py/Java)
       > Live Circle Artboard (Kotlin)
-      > Industrial Schedule (Java/Kotlin)
       > Polyscape Render Engine (Java/OpenGl)
-      > Industrial CRM/ERP IRIS (ASP.NET MVC/C#)
-      > Commercial Monitoring and Auditing Softwear (C#)
       > WurstPlus 3 (Java made in Collaboration with @TrvsF)
-      > Industrial Commons Libary For Rendering and Sql ORM (Java/OpenGL/SQL Server/CUDA)
+    -------------Professional--------------
+      > Industrial CRM/ERP System (ASP.NET MVC/C#)
+      > Commercial Monitoring and Auditing Softwear (C#)
+      > Commercial Aggregate Timeseries ML Algorithm (CUDA/C++)
+      > Autonomus Predictive Industrial Schedule (Java/Kotlin)
+      > Standard Libary For Rendering and Sql ORM (Java/OpenGL/SQL Server/CUDA)
 
   </div>
   </br> </br>
