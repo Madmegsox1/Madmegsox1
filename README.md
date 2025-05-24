@@ -14,6 +14,7 @@
       > Polyscape Render Engine (Java/OpenGl)
       > WurstPlus 3 (Java made in Collaboration with @TrvsF)
     -------------Professional--------------
+      > HTTP/HTTPS Proxy (Zig)
       > Hex-Editor Tooling (Zig)
       > Memory Editor/Viewer (C++)
       > Research Project(Zig + Web) (ONGOING)
