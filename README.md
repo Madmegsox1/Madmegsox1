@@ -17,14 +17,14 @@
       > Koth (C# made in Collaboration with @TrvsF)
       > WurstPlus 3 (Java made in Collaboration with @TrvsF)
     -------------Professional--------------
-      > HTTP/HTTPS Proxy (Zig)
       > Hex-Editor Tooling (Zig)
       > Memory Editor/Viewer (C++)
-      > Research Project(Zig + Web) (ONGOING)
+      > HTTP/HTTPS Proxy & Reverse proxy (Zig)
       > Industrial CRM/ERP System (ASP.NET MVC/C#)
       > Commercial Monitoring and Auditing Softwear (C#)
-      > Autonomus Predictive Industrial Schedule (Java/Kotlin)
+      > Autonomous Predictive Industrial Schedule (Java/Kotlin)
       > Commercial Aggregate Timeseries ML Algorithm (CUDA/C++)
+      > Embedded Control System for Cutting Edge R&D Equipment (C)
       > Standard Libary For Rendering and Sql ORM (Java/OpenGL/SQL Server/CUDA)
 
   </div>
