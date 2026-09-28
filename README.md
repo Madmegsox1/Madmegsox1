@@ -10,7 +10,7 @@
     -------------Personal--------------
       > Netnoot (Rust&Zig)
       > 6502 Emulator (Zig)
-      > RP2350 Flash tool (C)
+      > RP2350 Flash/Debug tool (C)
       > Python Obfuscator (Py/Java)
       > Live Circle Artboard/Blog (Kotlin)
       > Polyscape Render Engine (Java/OpenGl)
